@@ -3,7 +3,7 @@ body{
 }
 .div{
 margin: 2% 2% 0;
-padding: 1% 5% 6%;
+padding: 1% 15% 6%;
 background-color: #98E9EB;
 border-style: solid;
 }
@@ -85,7 +85,7 @@ border-radius: 35px;
 }
 @media (max-width: 991px) {
   .divpad{
-    margin: 5% 0;
+    margin: 5% 1%;
     padding: 20px 20px;
   }
 }
